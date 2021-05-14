@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on rothenba.ch</title>
+    <link>https://lrsrthnbch.github.io/categories/</link>
+    <description>Recent content in Categories on rothenba.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Lars Rothenbach</copyright>
+    <lastBuildDate>Fri, 14 May 2021 16:47:22 +0200</lastBuildDate><atom:link href="https://lrsrthnbch.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rezepte</title>
+      <link>https://lrsrthnbch.github.io/categories/rezepte/</link>
+      <pubDate>Fri, 14 May 2021 16:47:22 +0200</pubDate>
+      
+      <guid>https://lrsrthnbch.github.io/categories/rezepte/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
