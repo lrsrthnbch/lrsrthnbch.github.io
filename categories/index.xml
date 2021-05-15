@@ -6,13 +6,49 @@
     <description>Recent content in Categories on Lars Rothenbach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 May 2021 14:37:31 +0200</lastBuildDate><atom:link href="https://rothenba.ch/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 May 2021 09:37:15 +0200</lastBuildDate><atom:link href="https://rothenba.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>rezepte</title>
-      <link>https://rothenba.ch/categories/rezepte/</link>
-      <pubDate>Fri, 14 May 2021 14:37:31 +0200</pubDate>
+      <title>Hauptgericht</title>
+      <link>https://rothenba.ch/categories/hauptgericht/</link>
+      <pubDate>Sat, 15 May 2021 09:37:15 +0200</pubDate>
       
-      <guid>https://rothenba.ch/categories/rezepte/</guid>
+      <guid>https://rothenba.ch/categories/hauptgericht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beilage</title>
+      <link>https://rothenba.ch/categories/beilage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rothenba.ch/categories/beilage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nachtisch</title>
+      <link>https://rothenba.ch/categories/nachtisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rothenba.ch/categories/nachtisch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snack</title>
+      <link>https://rothenba.ch/categories/snack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rothenba.ch/categories/snack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vorspeise</title>
+      <link>https://rothenba.ch/categories/vorspeise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rothenba.ch/categories/vorspeise/</guid>
       <description></description>
     </item>
     

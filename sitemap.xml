@@ -2,31 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rothenba.ch/categories/</loc>
-    <lastmod>2021-05-14T14:37:31+02:00</lastmod>
+    <loc>https://rothenba.ch/tags/amerikanisch/</loc>
+    <lastmod>2021-05-15T09:37:15+02:00</lastmod>
   </url><url>
-    <loc>https://rothenba.ch/tags/hauptgericht/</loc>
-    <lastmod>2021-05-14T14:37:31+02:00</lastmod>
+    <loc>https://rothenba.ch/categories/</loc>
+    <lastmod>2021-05-15T09:37:15+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/categories/hauptgericht/</loc>
+    <lastmod>2021-05-15T09:37:15+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/</loc>
+    <lastmod>2021-05-15T09:37:15+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/pizza/</loc>
+    <lastmod>2021-05-15T09:37:15+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/p/pizza-detroit/</loc>
+    <lastmod>2021-05-15T09:37:15+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/post/</loc>
+    <lastmod>2021-05-15T09:37:15+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/</loc>
+    <lastmod>2021-05-15T09:37:15+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/vegetarisch/</loc>
+    <lastmod>2021-05-15T09:37:15+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/tags/italienisch/</loc>
     <lastmod>2021-05-14T14:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://rothenba.ch/</loc>
-    <lastmod>2021-05-14T14:37:31+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/tags/pizza/</loc>
-    <lastmod>2021-05-14T14:37:31+02:00</lastmod>
-  </url><url>
     <loc>https://rothenba.ch/p/pizza-napoletana/</loc>
-    <lastmod>2021-05-14T14:37:31+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/post/</loc>
-    <lastmod>2021-05-14T14:37:31+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/categories/rezepte/</loc>
-    <lastmod>2021-05-14T14:37:31+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/tags/</loc>
     <lastmod>2021-05-14T14:37:31+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/archives/</loc>
@@ -38,6 +44,14 @@
     <loc>https://rothenba.ch/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://rothenba.ch/categories/beilage/</loc>
+  </url><url>
+    <loc>https://rothenba.ch/categories/nachtisch/</loc>
+  </url><url>
     <loc>https://rothenba.ch/search/</loc>
+  </url><url>
+    <loc>https://rothenba.ch/categories/snack/</loc>
+  </url><url>
+    <loc>https://rothenba.ch/categories/vorspeise/</loc>
   </url>
 </urlset>
