@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rothenba.ch/categories/beilage/</loc>
-    <lastmod>2021-10-19T20:34:43+02:00</lastmod>
+    <loc>https://rothenba.ch/tags/afrikanisch/</loc>
+    <lastmod>2022-01-14T21:55:10+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/categories/</loc>
+    <lastmod>2022-01-14T21:55:10+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/categories/hauptgericht/</loc>
+    <lastmod>2022-01-14T21:55:10+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/p/jollof/</loc>
+    <lastmod>2022-01-14T21:55:10+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/</loc>
+    <lastmod>2022-01-14T21:55:10+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/post/</loc>
+    <lastmod>2022-01-14T21:55:10+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/reis/</loc>
+    <lastmod>2022-01-14T21:55:10+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/</loc>
+    <lastmod>2022-01-14T21:55:10+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/vegetarisch/</loc>
+    <lastmod>2022-01-14T21:55:10+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/categories/beilage/</loc>
     <lastmod>2021-10-19T20:34:43+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/p/tempura/</loc>
@@ -20,15 +44,6 @@
     <loc>https://rothenba.ch/tags/japanisch/</loc>
     <lastmod>2021-10-19T20:34:43+02:00</lastmod>
   </url><url>
-    <loc>https://rothenba.ch/</loc>
-    <lastmod>2021-10-19T20:34:43+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/post/</loc>
-    <lastmod>2021-10-19T20:34:43+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/tags/</loc>
-    <lastmod>2021-10-19T20:34:43+02:00</lastmod>
-  </url><url>
     <loc>https://rothenba.ch/tags/deutsch/</loc>
     <lastmod>2021-10-13T18:30:43+02:00</lastmod>
   </url><url>
@@ -36,9 +51,6 @@
     <lastmod>2021-10-13T18:30:43+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/tags/franz%C3%B6sisch/</loc>
-    <lastmod>2021-10-13T18:30:43+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/categories/hauptgericht/</loc>
     <lastmod>2021-10-13T18:30:43+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/tags/pizza/</loc>
@@ -86,9 +98,6 @@
     <loc>https://rothenba.ch/tags/gesund/</loc>
     <lastmod>2021-07-27T18:52:10+02:00</lastmod>
   </url><url>
-    <loc>https://rothenba.ch/tags/reis/</loc>
-    <lastmod>2021-07-27T18:52:10+02:00</lastmod>
-  </url><url>
     <loc>https://rothenba.ch/p/chicken-katsu/</loc>
     <lastmod>2021-07-16T17:58:30+02:00</lastmod>
   </url><url>
@@ -123,9 +132,6 @@
     <lastmod>2021-05-17T15:44:12+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/tags/vegan/</loc>
-    <lastmod>2021-05-17T15:44:12+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/tags/vegetarisch/</loc>
     <lastmod>2021-05-17T15:44:12+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/p/dandan-nudeln/</loc>
