@@ -2,37 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rothenba.ch/tags/amerikanisch/</loc>
-    <lastmod>2022-01-16T14:34:30+02:00</lastmod>
-  </url><url>
     <loc>https://rothenba.ch/tags/brot/</loc>
-    <lastmod>2022-01-16T14:34:30+02:00</lastmod>
+    <lastmod>2022-01-29T21:13:00+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/categories/</loc>
-    <lastmod>2022-01-16T14:34:30+02:00</lastmod>
+    <lastmod>2022-01-29T21:13:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/deutsch/</loc>
+    <lastmod>2022-01-29T21:13:00+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/categories/geb%C3%A4ck/</loc>
-    <lastmod>2022-01-16T14:34:30+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/p/hoagie/</loc>
-    <lastmod>2022-01-16T14:34:30+02:00</lastmod>
+    <lastmod>2022-01-29T21:13:00+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/</loc>
-    <lastmod>2022-01-16T14:34:30+02:00</lastmod>
+    <lastmod>2022-01-29T21:13:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/p/laugenbr%C3%B6tchen/</loc>
+    <lastmod>2022-01-29T21:13:00+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/post/</loc>
+    <lastmod>2022-01-29T21:13:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/</loc>
+    <lastmod>2022-01-29T21:13:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/amerikanisch/</loc>
+    <lastmod>2022-01-27T15:15:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/burger/</loc>
+    <lastmod>2022-01-27T15:15:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/p/buns/</loc>
+    <lastmod>2022-01-27T15:15:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/chinesisch/</loc>
+    <lastmod>2022-01-25T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/categories/hauptgericht/</loc>
+    <lastmod>2022-01-25T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/nudeln/</loc>
+    <lastmod>2022-01-25T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/scharf/</loc>
+    <lastmod>2022-01-25T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/p/youpomian/</loc>
+    <lastmod>2022-01-25T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/p/hoagie/</loc>
     <lastmod>2022-01-16T14:34:30+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/tags/sandwich/</loc>
     <lastmod>2022-01-16T14:34:30+02:00</lastmod>
   </url><url>
-    <loc>https://rothenba.ch/tags/</loc>
-    <lastmod>2022-01-16T14:34:30+02:00</lastmod>
-  </url><url>
     <loc>https://rothenba.ch/tags/afrikanisch/</loc>
-    <lastmod>2022-01-14T21:55:10+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/categories/hauptgericht/</loc>
     <lastmod>2022-01-14T21:55:10+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/p/jollof/</loc>
@@ -58,9 +82,6 @@
   </url><url>
     <loc>https://rothenba.ch/tags/japanisch/</loc>
     <lastmod>2021-10-19T20:34:43+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/tags/deutsch/</loc>
-    <lastmod>2021-10-13T18:30:43+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/p/flammkuchen/</loc>
     <lastmod>2021-10-13T18:30:43+02:00</lastmod>
@@ -97,9 +118,6 @@
   </url><url>
     <loc>https://rothenba.ch/tags/s%C3%BC%C3%9F/</loc>
     <lastmod>2021-07-28T16:03:14+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/tags/chinesisch/</loc>
-    <lastmod>2021-07-27T18:52:10+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/tags/fleisch/</loc>
     <lastmod>2021-07-27T18:52:10+02:00</lastmod>
@@ -149,9 +167,6 @@
     <loc>https://rothenba.ch/p/dandan-nudeln/</loc>
     <lastmod>2021-05-17T15:33:12+02:00</lastmod>
   </url><url>
-    <loc>https://rothenba.ch/tags/nudeln/</loc>
-    <lastmod>2021-05-17T15:33:12+02:00</lastmod>
-  </url><url>
     <loc>https://rothenba.ch/p/filet-mignon/</loc>
     <lastmod>2021-05-16T19:58:59+02:00</lastmod>
   </url><url>
@@ -178,9 +193,6 @@
   </url><url>
     <loc>https://rothenba.ch/tags/kuchen/</loc>
     <lastmod>2021-05-15T13:30:37+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/tags/burger/</loc>
-    <lastmod>2021-05-15T10:27:18+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/p/oven-fries/</loc>
     <lastmod>2021-05-15T10:27:18+02:00</lastmod>

@@ -6,22 +6,67 @@
     <description>Recent content in Tags on Lars Rothenbach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jan 2022 14:34:30 +0200</lastBuildDate><atom:link href="https://rothenba.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 21:13:00 +0200</lastBuildDate><atom:link href="https://rothenba.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>brot</title>
+      <link>https://rothenba.ch/tags/brot/</link>
+      <pubDate>Sat, 29 Jan 2022 21:13:00 +0200</pubDate>
+      
+      <guid>https://rothenba.ch/tags/brot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deutsch</title>
+      <link>https://rothenba.ch/tags/deutsch/</link>
+      <pubDate>Sat, 29 Jan 2022 21:13:00 +0200</pubDate>
+      
+      <guid>https://rothenba.ch/tags/deutsch/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>amerikanisch</title>
       <link>https://rothenba.ch/tags/amerikanisch/</link>
-      <pubDate>Sun, 16 Jan 2022 14:34:30 +0200</pubDate>
+      <pubDate>Thu, 27 Jan 2022 15:15:00 +0200</pubDate>
       
       <guid>https://rothenba.ch/tags/amerikanisch/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>brot</title>
-      <link>https://rothenba.ch/tags/brot/</link>
-      <pubDate>Sun, 16 Jan 2022 14:34:30 +0200</pubDate>
+      <title>burger</title>
+      <link>https://rothenba.ch/tags/burger/</link>
+      <pubDate>Thu, 27 Jan 2022 15:15:00 +0200</pubDate>
       
-      <guid>https://rothenba.ch/tags/brot/</guid>
+      <guid>https://rothenba.ch/tags/burger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chinesisch</title>
+      <link>https://rothenba.ch/tags/chinesisch/</link>
+      <pubDate>Tue, 25 Jan 2022 13:00:00 +0200</pubDate>
+      
+      <guid>https://rothenba.ch/tags/chinesisch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nudeln</title>
+      <link>https://rothenba.ch/tags/nudeln/</link>
+      <pubDate>Tue, 25 Jan 2022 13:00:00 +0200</pubDate>
+      
+      <guid>https://rothenba.ch/tags/nudeln/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scharf</title>
+      <link>https://rothenba.ch/tags/scharf/</link>
+      <pubDate>Tue, 25 Jan 2022 13:00:00 +0200</pubDate>
+      
+      <guid>https://rothenba.ch/tags/scharf/</guid>
       <description></description>
     </item>
     
@@ -89,15 +134,6 @@
     </item>
     
     <item>
-      <title>deutsch</title>
-      <link>https://rothenba.ch/tags/deutsch/</link>
-      <pubDate>Wed, 13 Oct 2021 18:30:43 +0200</pubDate>
-      
-      <guid>https://rothenba.ch/tags/deutsch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>französisch</title>
       <link>https://rothenba.ch/tags/franz%C3%B6sisch/</link>
       <pubDate>Wed, 13 Oct 2021 18:30:43 +0200</pubDate>
@@ -157,15 +193,6 @@
       <pubDate>Wed, 28 Jul 2021 16:03:14 +0200</pubDate>
       
       <guid>https://rothenba.ch/tags/s%C3%BC%C3%9F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chinesisch</title>
-      <link>https://rothenba.ch/tags/chinesisch/</link>
-      <pubDate>Tue, 27 Jul 2021 18:52:10 +0200</pubDate>
-      
-      <guid>https://rothenba.ch/tags/chinesisch/</guid>
       <description></description>
     </item>
     
@@ -233,15 +260,6 @@
     </item>
     
     <item>
-      <title>nudeln</title>
-      <link>https://rothenba.ch/tags/nudeln/</link>
-      <pubDate>Mon, 17 May 2021 15:33:12 +0200</pubDate>
-      
-      <guid>https://rothenba.ch/tags/nudeln/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>russisch</title>
       <link>https://rothenba.ch/tags/russisch/</link>
       <pubDate>Sat, 15 May 2021 20:30:56 +0200</pubDate>
@@ -274,15 +292,6 @@
       <pubDate>Sat, 15 May 2021 13:30:37 +0200</pubDate>
       
       <guid>https://rothenba.ch/tags/kuchen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>burger</title>
-      <link>https://rothenba.ch/tags/burger/</link>
-      <pubDate>Sat, 15 May 2021 10:27:18 +0200</pubDate>
-      
-      <guid>https://rothenba.ch/tags/burger/</guid>
       <description></description>
     </item>
     
