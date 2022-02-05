@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rothenba.ch/tags/brot/</loc>
-    <lastmod>2022-02-03T15:15:00+02:00</lastmod>
+    <loc>https://rothenba.ch/tags/asiatisch/</loc>
+    <lastmod>2022-02-05T19:45:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/p/butter-chicken/</loc>
+    <lastmod>2022-02-05T19:45:00+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/categories/</loc>
+    <lastmod>2022-02-05T19:45:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/curry/</loc>
+    <lastmod>2022-02-05T19:45:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/categories/hauptgericht/</loc>
+    <lastmod>2022-02-05T19:45:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/h%C3%BChnchen/</loc>
+    <lastmod>2022-02-05T19:45:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/indisch/</loc>
+    <lastmod>2022-02-05T19:45:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/</loc>
+    <lastmod>2022-02-05T19:45:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/post/</loc>
+    <lastmod>2022-02-05T19:45:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/</loc>
+    <lastmod>2022-02-05T19:45:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rothenba.ch/tags/brot/</loc>
     <lastmod>2022-02-03T15:15:00+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/categories/geb%C3%A4ck/</loc>
@@ -14,16 +41,7 @@
     <loc>https://rothenba.ch/tags/griechisch/</loc>
     <lastmod>2022-02-03T15:15:00+02:00</lastmod>
   </url><url>
-    <loc>https://rothenba.ch/</loc>
-    <lastmod>2022-02-03T15:15:00+02:00</lastmod>
-  </url><url>
     <loc>https://rothenba.ch/p/pita/</loc>
-    <lastmod>2022-02-03T15:15:00+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/post/</loc>
-    <lastmod>2022-02-03T15:15:00+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/tags/</loc>
     <lastmod>2022-02-03T15:15:00+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/tags/deutsch/</loc>
@@ -42,9 +60,6 @@
     <lastmod>2022-01-27T15:15:00+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/tags/chinesisch/</loc>
-    <lastmod>2022-01-25T13:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://rothenba.ch/categories/hauptgericht/</loc>
     <lastmod>2022-01-25T13:00:00+02:00</lastmod>
   </url><url>
     <loc>https://rothenba.ch/tags/nudeln/</loc>
